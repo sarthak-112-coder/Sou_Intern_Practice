@@ -1,0 +1,40 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f1f3f4;
+  color: #202124;
+}
+
+.sidebar {
+  background-color: #fff;
+  border-right: 1px solid #ddd;
+  height: 100vh;
+}
+
+.nav-link {
+  color: #202124;
+  padding: 10px 15px;
+  border-radius: 20px;
+}
+
+.nav-link:hover{
+  background-color: #e8f0fe;
+  color: #1967d2;
+}
+
+.email-box {
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  transition: 0.2s ease;
+}
+
+.email-box:hover {
+  background-color: #f6f8fa;
+  cursor: pointer;
+}
+
+.preview-box {
+  background-color: #fff;
+  padding: 25px;
+  border-radius: 8px;
+}
